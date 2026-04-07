@@ -1,20 +1,25 @@
-//* TIPADO DEBIL: JS infiere el tipo de dato
-let usuario = "Homero";
-let clave = "1234";
-
-//* TIPADO DINÁMICO: JS permite cambiar el tipo de dato
-usuario = {
-  nombre: "HOMERO",
-};
-clave = 1234;
-
-//! ERRORES EN TIEMPO DE EJECUCIÓN
-console.log(usuario.edad.toFixed(0));
-
-"use strict";
-
-x = 10;
-
-function sumar(a, a) {
-  return a + a;
+function enviarEmail(usuario){
+  console.log(usuario.email.toLowerCase())
 }
+
+// enviarEmail({ nombre: "Auri" })
+
+
+//? Tipos de tipado:
+
+//* tipado estático - No es modificable, aquí es el tipo se define, se mantiene, se debe respetar.
+//* tipado dinámico - Se refiere a que el tipo puede cambiar.
+
+let edad = 30;
+// edad = "treinta"
+
+console.log(edad)
+
+//? Flujo de TypeScript:
+//* demo.ts -> TypeScript Compiler (tsc) -> Código JavaScript -> Node Js o el navegador (quien lo ejecute)
+
+function calcularDescuento(precio, porcentaje){
+  return precio - (precio * porcentaje / 100)
+}
+
+console.log(calcularDescuento("200", 10))
