@@ -26,7 +26,10 @@
 - [UseStrict en JavaScript](./readmes/01-JavaScript/03-UseStrict.md)
 - [TypeScript](./readmes/01-JavaScript/04-TypeScript.md)
 
+### 02. TypeScript II
 
+- [Resumen de TypeScript](./readmes/02-TypeScript/01-TypeScript.md)
+- [Interfaces y Tipoos personalizados](./readmes/02-TypeScript/02-Interfaces%20y%20Tipos.md)
 
 ## Buenas Prácticas
 
@@ -38,8 +41,3 @@
 - [Buenas Prácticas 06](/readmes/buenas-practicas/06.md)
 - [Buenas Prácticas 07](/readmes/buenas-practicas/07.md)
 - [Buenas Prácticas 08](/readmes/buenas-practicas/08.md)
-
-
-
-
-
