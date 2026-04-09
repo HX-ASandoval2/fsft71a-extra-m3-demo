@@ -9,7 +9,7 @@
 - Tomar Notas Digitales
   - [Obsidian - Video de introducción](https://www.youtube.com/watch?v=64pI_dKYZOg&t=613s)
   - [Obsidian - Página oficial](https://obsidian.md/)
-  - [Guía Rápida de MarkDown](./xtras/markDown.md)
+  - [Guía Rápida de MarkDown](./readmes/varios/markDown.md)
 - Aprender a escribir en teclado con todos los dedos (Mecanografía)
   - [El mundo de la Mecanografía](https://www.edclub.com/es/library/el-mundo-de-la-mecanograf%C3%ADa)
   - [Aprende Mecanografía](https://www.mecanografia-online.com/)
@@ -29,7 +29,12 @@
 ### 02. TypeScript II
 
 - [Resumen de TypeScript](./readmes/02-TypeScript/01-TypeScript.md)
-- [Interfaces y Tipoos personalizados](./readmes/02-TypeScript/02-Interfaces%20y%20Tipos.md)
+- [Interfaces y Tipos personalizados](./readmes/02-TypeScript/02-Interfaces%20y%20Tipos.md)
+
+### 03. TypeScript & Express
+
+- [Flow de Express](./readmes/03-Express/express.md)
+- [DTO: Data Transfer Object](./readmes/03-Express/dto.md)
 
 ## Buenas Prácticas
 
