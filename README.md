@@ -36,6 +36,10 @@
 - [Flow de Express](./readmes/03-Express/express.md)
 - [DTO: Data Transfer Object](./readmes/03-Express/dto.md)
 
+### 04. Fundamentos de SQL
+
+- [SQL: Structured Query Language](./readmes/04-SQL/sql.md)
+
 ## Buenas Prácticas
 
 - [Buenas Prácticas 01](/readmes/buenas-practicas/01.md)
