@@ -40,6 +40,10 @@
 
 - [SQL: Structured Query Language](./readmes/04-SQL/sql.md)
 
+### 05. TypeORM
+
+- [TypeORM](./readmes/05-TypeORM/TypeORM.md)
+
 ## Buenas Prácticas
 
 - [Buenas Prácticas 01](/readmes/buenas-practicas/01.md)
