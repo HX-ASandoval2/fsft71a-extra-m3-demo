@@ -55,6 +55,11 @@
 - [Props](./readmes/08-DataFlow/Props.md)
 - [Estados](./readmes/08-DataFlow/Estados.md)
 
+### 09. React LifeCycle
+
+- [CORS](./readmes/09-LifeCycle/Cors.md)
+- [React LyfeCycle & useEffect](./readmes/09-LifeCycle/useEffect.md)
+
 ## Buenas Prácticas
 
 - [Buenas Prácticas 01](/readmes/buenas-practicas/01.md)
