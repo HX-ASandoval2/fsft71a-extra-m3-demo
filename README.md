@@ -60,6 +60,10 @@
 - [CORS](./readmes/09-LifeCycle/Cors.md)
 - [React LyfeCycle & useEffect](./readmes/09-LifeCycle/useEffect.md)
 
+### 10. React Forms
+
+- [Formularios en React](./readmes/10-Forms/Forms.md)
+
 ## Buenas Prácticas
 
 - [Buenas Prácticas 01](/readmes/buenas-practicas/01.md)
